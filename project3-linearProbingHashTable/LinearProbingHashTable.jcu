@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>LinearProbingHashTable</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>LinearProbingHashTable</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>LinearProbingHashTable.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>UnderflowException.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\project4-radixSort\RadixSort.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>LinearProbingHashTable.java.sdk</path>
+			<symbols>
+				<symbol>AnyType1</symbol>
+				<symbol>LinearProbingHashTable</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

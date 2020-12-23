@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Kruskals</label>
+		<id>94</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Kruskals.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Kruskals.jcp</path>
+		</project>
+	</projects>
+</workspace>
